@@ -31,4 +31,4 @@ If you are not familiar with the different technologies used in this project, pl
 
 ## Feedback
 
-Please reach out to me [Email](mananpatel1914@gmail.com)
+Please reach out to me mananpatel1914@gmail.com
